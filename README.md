@@ -7,7 +7,7 @@ Este repositorio utiliza conteo por linea virtual y conteo por regiones. El cual
 
 
 <p align="center">
-  <img width="460" height="300" gfx="gfx/counting_regions.PNG">
+  <img width="460" height="300" gfx="gfx/counting_regions.png">
 </p>
 
 
