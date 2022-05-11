@@ -14,3 +14,12 @@ Este repositorio utiliza conteo por linea virtual y conteo por regiones. El cual
 
 
 El modelo fue entrenado usando [Google colab](https://colab.research.google.com/). Fue usando un tamano del lote de 64 con una taza de aprendizaje de 0.003.
+
+## Metrics
+Fueron utilizadas las metricas de pascal para evaluar el modelo de deteccion.
+
+| Modelo        | mAP (%)          | IoU (%) |
+| ------------- |:-------------:| -----:|
+| YOLOv2      | 60 | 54 |
+| YOLOv3      | 64      |   58 |
+| YOLOv4      | 69      |    63 |
