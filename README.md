@@ -29,4 +29,4 @@ Fueron utilizadas las metricas de pascal para evaluar el modelo de deteccion.
 ### python requirements 
 Instals estos requerimientos 
 
-pip install -r requirements.txt
+>pip install -r requirements.txt
