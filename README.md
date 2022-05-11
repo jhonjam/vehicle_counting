@@ -23,3 +23,10 @@ Fueron utilizadas las metricas de pascal para evaluar el modelo de deteccion.
 | YOLOv2      | 60 | 54 |
 | YOLOv3      | 64      |   58 |
 | YOLOv4      | 69      |    63 |
+
+
+##Requirements
+### python requirements 
+Instals estos requerimientos 
+
+pip install -r requirements.txt
