@@ -10,7 +10,7 @@ Este repositorio utiliza conteo por linea virtual y conteo por regiones. El cual
   <img width="200" height="300" src="gfx/counting_regions.PNG">
 </p>
 
-![](gfx/counting_regions.PNG)
+![](gfx/pipeline.PNG)
 
 
 
