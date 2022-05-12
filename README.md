@@ -15,6 +15,19 @@ Este repositorio utiliza conteo por linea virtual y conteo por regiones. El cual
 
 El modelo fue entrenado usando [Google colab](https://colab.research.google.com/). Fue usando un tamano del lote de 64 con una taza de aprendizaje de 0.003.
 
+## Etapas fundamentales 
+Este programa esta dividido en cuatro etapas fundamentales:
+1. Deteccion
+2. Identificacion
+3. Trayectoria
+4. Conteo
+
+Ademas, consta con el uso de otras funciones:
+- Seguimiento
+- Re-identificacion
+- conteo por regiones
+
+
 ## Metrics
 Fueron utilizadas las metricas de pascal para evaluar el modelo de deteccion.
 
